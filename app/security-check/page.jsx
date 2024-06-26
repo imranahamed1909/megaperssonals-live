@@ -105,7 +105,7 @@ function SecurityCheckPage() {
         </Formik>
       </div>
 
-      {/* {showModal && <PhotoUpload setShowModal={setShowModal} />} */}
+     
     </div>
   );
 }
